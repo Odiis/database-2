@@ -32,12 +32,12 @@ BEGIN
     -- New Values
     SET @cNewVersion = '21';
     SET @cNewStructure = '12';
-    SET @cNewContent = '2';
+    SET @cNewContent = '1';
                             -- DESCRIPTION IS 30 Characters MAX    
-    SET @cNewDescription = 'Fix Issue 93';
+    SET @cNewDescription = 'Fix Issue 96';
 
                         -- COMMENT is 150 Characters MAX
-    SET @cNewComment = 'Fix Issue 93, stop Finkle spawning on Beast death';
+    SET @cNewComment = 'Fix Issue 96, stop Finkle spawning on Beast death';
 
     -- Evaluate all settings
     SET @cCurResult := (SELECT description FROM db_version ORDER BY `version` DESC, STRUCTURE DESC, CONTENT DESC LIMIT 0,1);
