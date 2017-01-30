@@ -1,0 +1,24 @@
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15884';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15885';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15881';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15880';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15879';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15877';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15876';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15875';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15874';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15873';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15872';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15886';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15887';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15888';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15889';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15890';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15911';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15912';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15913';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15914';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15915';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15916';
+UPDATE `creature_template` SET `ExtraFlags`='130' WHERE `Entry`='15918';
+
