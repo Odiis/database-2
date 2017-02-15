@@ -1,0 +1,1 @@
+INSERT INTO quest_relations (actor, entry, quest, role) VALUES ('1', '51708', '253', '2');
